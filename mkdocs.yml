@@ -1,0 +1,10 @@
+site_name: pytest-artificer
+site_description: A pytest plugin for API testing using OpenAPI Specification
+site_author: Vishal Singh Kushwaha
+
+theme: readthedocs
+
+repo_url: https://github.com/vishal-kushwaha/pytest-artificer
+
+pages:
+- Home: index.md
