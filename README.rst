@@ -18,6 +18,11 @@ pytest-artificer
     :target: https://ci.appveyor.com/project/vishal-kushwaha/pytest-artificer/branch/master
     :alt: See Build Status on AppVeyor
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg?branch=master
+    :target: https://gitter.im/artificer-dev/
+    :alt: Join the chat at gitter
+
+
 A pytest plugin for API testing using OpenAPI Specification
 
 ----
