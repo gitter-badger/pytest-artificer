@@ -83,3 +83,8 @@ If you encounter any problems, please `file an issue`_ along with a detailed des
 .. _`tox`: https://tox.readthedocs.io/en/latest/
 .. _`pip`: https://pypi.org/project/pip/
 .. _`PyPI`: https://pypi.org/project
+
+
+.. image:: https://badges.gitter.im/artificer-dev/community.svg
+   :alt: Join the chat at https://gitter.im/artificer-dev/community
+   :target: https://gitter.im/artificer-dev/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
